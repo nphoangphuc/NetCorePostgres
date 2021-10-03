@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCorePostgres", "NetCorePostgres\NetCorePostgres.csproj", "{B890414A-E653-4B89-8AC6-699C1CF0A922}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCorePostgres.Models", "NetCorePostgres.Models\NetCorePostgres.Models.csproj", "{BB8D1BDE-7741-4292-93B4-165D900E5B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCorePostgres.Migration", "NetCorePostgres.Migration\NetCorePostgres.Migration.csproj", "{1415E205-2CD5-491E-86FC-33269F5A1CE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B890414A-E653-4B89-8AC6-699C1CF0A922}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B890414A-E653-4B89-8AC6-699C1CF0A922}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B890414A-E653-4B89-8AC6-699C1CF0A922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8D1BDE-7741-4292-93B4-165D900E5B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8D1BDE-7741-4292-93B4-165D900E5B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8D1BDE-7741-4292-93B4-165D900E5B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8D1BDE-7741-4292-93B4-165D900E5B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1415E205-2CD5-491E-86FC-33269F5A1CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1415E205-2CD5-491E-86FC-33269F5A1CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1415E205-2CD5-491E-86FC-33269F5A1CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1415E205-2CD5-491E-86FC-33269F5A1CE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
