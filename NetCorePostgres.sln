@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCorePostgre", "NetCorePostgre\NetCorePostgre.csproj", "{086B53E4-C0BA-4780-A459-FD4D124BF2A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCorePostgres", "NetCorePostgre\NetCorePostgres.csproj", "{086B53E4-C0BA-4780-A459-FD4D124BF2A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
